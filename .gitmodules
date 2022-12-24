@@ -1,8 +1,8 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:AquaUseful/java-lab567-back.git
+	url = https://github.com/AquaUseful/java-lab567-back.git
 	branch = main
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:AquaUseful/java-lab567-front.git
+	url = https://github.com/AquaUseful/java-lab567-front.git
 	branch = master
