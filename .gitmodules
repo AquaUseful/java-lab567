@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/AquaUseful/java-lab567-front.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/AquaUseful/java-lab567-back.git
